@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+method="$1"
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - method=""</description>
+</snippet>

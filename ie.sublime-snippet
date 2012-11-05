@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// if ${1:lt} IE ${2:9}
+	
+]]></content>
+	<tabTrigger>ie</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - // if IE</description>
+</snippet>

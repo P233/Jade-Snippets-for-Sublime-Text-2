@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mixin ${1:name}(${2:param}, ${3:param})
+	
+]]></content>
+	<tabTrigger>mix</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - mixin</description>
+</snippet>

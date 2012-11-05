@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a(href="${1:http://}"${2:, target="_blank"}) 
+]]></content>
+	<tabTrigger>a</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - a()</description>
+</snippet>

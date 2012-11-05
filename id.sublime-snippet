@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+id="$1"
+]]></content>
+	<tabTrigger>id</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - id=""</description>
+</snippet>

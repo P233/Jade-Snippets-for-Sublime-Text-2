@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+!!!
+html
+	head(lang="en")
+		title ${1:title name}
+		meta(http-equiv="content-type", content="text/html; charset=UTF-8")
+		meta(name="description", content="")
+		meta(name="keywords", content="")
+		meta(name="viewport", content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;")
+		// if lt IE 9
+			script(src="js/html5shiv.js")
+		link(rel="stylesheet", href="css/style.css", type="text/css")
+	body
+		header
+			h1
+		.container
+
+		footer
+
+		script(type="text/javascript", src="js/jquery-1.7.2.min.js")
+		// if IE
+			script(src="js/placeholder.js")
+
+]]></content>
+	<tabTrigger>tem</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - template</description>
+</snippet>

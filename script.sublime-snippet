@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+script(src="${1:js/jquery.min.js}", $2type="text/javascript")
+
+]]></content>
+	<tabTrigger>scr</tabTrigger>
+	<scope>source.jade</scope>
+	<description>Jade - script()</description>
+</snippet>
