@@ -2,9 +2,6 @@
 
 A collection of Jade snippets. All suggestions are welcome.
 
-<br><br>
-## Snippets
-
 ```
 id     =>    id=""
 hre    =>    href=""
