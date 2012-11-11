@@ -4,5 +4,5 @@ rel="$1"
 ]]></content>
 	<tabTrigger>rel</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - rel=""</description>
+	<description>rel=""</description>
 </snippet>

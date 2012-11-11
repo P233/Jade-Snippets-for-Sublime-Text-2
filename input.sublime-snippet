@@ -5,5 +5,5 @@ input(type="${1:text}", placeholder="$2")
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - input()</description>
+	<description>input()</description>
 </snippet>

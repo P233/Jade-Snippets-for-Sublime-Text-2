@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-mixin ${1:name}(${2:param}, ${3:param})
+mixin ${1:name}(${2:param1}, ${3:param2})
 	
 ]]></content>
 	<tabTrigger>mix</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - mixin</description>
+	<description>mixin</description>
 </snippet>

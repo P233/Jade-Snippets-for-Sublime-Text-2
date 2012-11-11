@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-link(rel="stylesheet", href="${1:css/style.css}", type="text/css")
+link(rel="stylesheet", type="text/css", href="${1:css/style.css}")
 
 ]]></content>
 	<tabTrigger>lin</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - link()</description>
+	<description>link()</description>
 </snippet>

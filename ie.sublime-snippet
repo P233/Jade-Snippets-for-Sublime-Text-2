@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>ie</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - // if IE</description>
+	<description>// if IE</description>
 </snippet>

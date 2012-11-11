@@ -4,5 +4,5 @@ type="$1"
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - type=""</description>
+	<description>type=""</description>
 </snippet>

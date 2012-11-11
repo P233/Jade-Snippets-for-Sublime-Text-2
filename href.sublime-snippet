@@ -4,5 +4,5 @@ href="$1"
 ]]></content>
 	<tabTrigger>hre</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - href=""</description>
+	<description>href=""</description>
 </snippet>

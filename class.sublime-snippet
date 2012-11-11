@@ -4,5 +4,5 @@ class="$1"
 ]]></content>
 	<tabTrigger>cla</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - class=""</description>
+	<description>class=""</description>
 </snippet>

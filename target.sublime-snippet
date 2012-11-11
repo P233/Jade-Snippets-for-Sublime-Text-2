@@ -4,5 +4,5 @@ target="$1"
 ]]></content>
 	<tabTrigger>tar</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - target=""</description>
+	<description>target=""</description>
 </snippet>

@@ -4,5 +4,5 @@ action="$1"
 ]]></content>
 	<tabTrigger>act</tabTrigger>
 	<scope>source.jade</scope>
-	<description>Jade - action=""</description>
+	<description>action=""</description>
 </snippet>
