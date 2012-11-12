@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+textarea(${1:, }placeholder="$2")
+
+]]></content>
+	<tabTrigger>tex</tabTrigger>
+	<scope>source.jade</scope>
+	<description>textarea()</description>
+</snippet>
