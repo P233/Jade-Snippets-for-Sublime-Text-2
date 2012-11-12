@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button(type="${1:button}"${2:, }) 
+]]></content>
+	<tabTrigger>but</tabTrigger>
+	<scope>source.jade</scope>
+	<description>button()</description>
+</snippet>
