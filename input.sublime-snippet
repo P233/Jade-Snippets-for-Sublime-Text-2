@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 input(type="${1:text}",$2 placeholder="$3")
-
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
 	<scope>source.jade</scope>
