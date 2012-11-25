@@ -2,6 +2,9 @@
 
 A collection of Jade snippets. All suggestions are welcome.
 
+## Installation
+Strongly recommend to install this repo through Package Control.
+
 ```
 id     =>    id=""
 cla    =>    class=""
