@@ -1,4 +1,4 @@
-# Jade Snippets for Sublime Text 2
+# [Jade Snippets for Sublime Text 2](https://github.com/P233/Jade-Snippets-for-Sublime-Text-2)
 
 A collection of Jade snippets. All suggestions are welcome.
 
