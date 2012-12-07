@@ -23,7 +23,7 @@ pla    =>    placeholder=""
 a      =>    a(href="http://", target="_blank")
 img    =>    img(src="image/", alt="")
 
-scr    =>    script(type="text/javascript", src="")
+src    =>    script(type="text/javascript", src="")
 lin    =>    link(rel="stylesheet", type="text/css", href="")
 
 inp    =>    input(type="text", placeholder="")

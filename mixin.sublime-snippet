@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 mixin ${1:name}(${2:param1}, ${3:param2})
-	
+	${4:// new line}
 ]]></content>
 	<tabTrigger>mix</tabTrigger>
 	<scope>source.jade</scope>
