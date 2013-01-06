@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+extend ${1:layout};
+]]></content>
+	<tabTrigger>ext</tabTrigger>
+	<scope>source.jade</scope>
+	<description>extend</description>
+</snippet>
