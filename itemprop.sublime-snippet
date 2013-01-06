@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+itemprop="$1" 
+]]></content>
+	<tabTrigger>itemp</tabTrigger>
+	<scope>source.jade</scope>
+	<description>itemprop</description>
+</snippet>
