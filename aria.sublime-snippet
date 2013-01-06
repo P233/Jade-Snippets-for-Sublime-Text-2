@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-$1="$2"
+]]></content>
+	<tabTrigger>ari</tabTrigger>
+	<scope>source.jade</scope>
+	<description>aria-</description>
+</snippet>

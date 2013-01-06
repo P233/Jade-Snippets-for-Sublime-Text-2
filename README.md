@@ -19,6 +19,14 @@ tar    =>    target=""
 act    =>    action=""
 met    =>    method=""
 pla    =>    placeholder=""
+ari    =>    aria-*=""
+exte   =>    extend
+itemt  =>    itemtype="http://schema.org/*" 
+items  =>    itemscope=""
+itemp  =>    itemprop
+rol    =>    role=""
+data   =>    data-*=""
+inc    =>    include
 
 a      =>    a(href="http://", target="_blank")
 img    =>    img(src="image/", alt="")
@@ -26,6 +34,7 @@ img    =>    img(src="image/", alt="")
 src    =>    script(type="text/javascript", src="")
 lin    =>    link(rel="stylesheet", type="text/css", href="")
 
+form   =>    form(id="", method="", action="")
 inp    =>    input(type="text", placeholder="")
 but    =>    button(type="button", placeholder="")
 tex    =>    textarea(placeholder="")
