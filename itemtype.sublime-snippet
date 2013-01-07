@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+itemtype="http://schema.org/$1" 
+]]></content>
+	<tabTrigger>itemt</tabTrigger>
+	<scope>source.jade</scope>
+	<description>itemtype</description>
+</snippet>
