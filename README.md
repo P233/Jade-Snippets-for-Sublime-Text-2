@@ -5,6 +5,7 @@ A collection of Jade snippets. All suggestions are welcome.
 ## Installation
 Strongly recommend to install this repo through Package Control.
 
+## Snippets List
 ```
 id     =>    id=""
 cla    =>    class=""
@@ -31,7 +32,7 @@ inc    =>    include
 a      =>    a(href="http://", target="_blank")
 img    =>    img(src="image/", alt="")
 
-src    =>    script(type="text/javascript", src="")
+scr    =>    script(type="text/javascript", src="")
 lin    =>    link(rel="stylesheet", type="text/css", href="")
 
 form   =>    form(id="", method="", action="")
@@ -45,3 +46,6 @@ mix    =>    mixin name(param1, param2)
 
 tem    =>    Jade template
 ```
+
+## Contributors
+[rs495](https://github.com/rs459)
