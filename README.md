@@ -49,7 +49,7 @@ rol    =>  ```role=""```
 data   =>  ```data-*=""```
 
 
-#### Element
+### Elements
 
 a      =>  ```a(href="http://", target="_blank")```
 
@@ -60,7 +60,7 @@ scr    =>  ```script(type="text/javascript", src="")```
 lin    =>  ```link(rel="stylesheet", type="text/css", href="")```
 
 
-#### Foms
+### Forms
 
 form   =>  ```form(id="", method="", action="")```
 
@@ -70,7 +70,7 @@ but    =>  ```button(type="button", placeholder="")```
 
 tex    =>  ```textarea(placeholder="")```
 
-
+pli    =>  ```p > label(for="") + input(id="", type="")```
 
 
 ### Jade Specific
@@ -81,7 +81,7 @@ inc    =>  ```include```
 
 mix    =>  ```mixin name(param1, param2)```
 
-#### Filters
+### Filters
 
 st    =>  ```:stylus```
 
@@ -152,16 +152,16 @@ html
       p Hello world! This is HTML5 Boilerplate.
     
     block bottom-script
-      script(src='//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js')
+      script(src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
       script
-        window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\\/script>')
+        window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\\/script>')
       script(src='js/plugins.js')
       script(src='js/main.js')
       //- TODO : Google Analytics: change UA-XXXXX-X to be your site\'s ID. 
       script
         var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+        g.src='//google-analytics.com/ga.js';
         s.parentNode.insertBefore(g,s)}(document,'script'));
 ```
 
