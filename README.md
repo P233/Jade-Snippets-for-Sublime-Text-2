@@ -127,10 +127,14 @@ tplh5bp =>
 ```jade
 !!!5
 //- TODO: Don't forget to set lang !!
-|<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-|<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-|<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-|<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+//if lt IE 7
+  |<html class="no-js lt-ie9 lt-ie8 lt-ie7">
+//if IE 7
+  |<html class="no-js lt-ie9 lt-ie8">
+//if IE 8
+  |<html class="no-js lt-ie9">
+//if gt IE 8
+  |<!--><html class="no-js"><!--
 head
   //- TODO: Check if it's the good charset
   meta(charset='utf-8')
