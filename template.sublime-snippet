@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-!!!
+doctype html
 html
 	head(lang="en")
 		title ${1:title name}
