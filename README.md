@@ -8,6 +8,16 @@ Strongly recommend to install this repo through Package Control.
 ## Snippets List
 
 
+### Conditionnals
+
+if else => 
+```jade
+if condition
+  //- code
+else
+  //- code
+```
+
 ### Attributes
 
 id     =>  ```id=""```
