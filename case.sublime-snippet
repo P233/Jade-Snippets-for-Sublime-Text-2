@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+case ${1:condition}
+  when ${2:condition}
+    ${3://- code}
+  default
+    ${4://- code}
+]]></content>
+  <tabTrigger>case</tabTrigger>
+  <scope>source.jade</scope>
+  <description>switch case condition</description>
+</snippet>
+
+
+
