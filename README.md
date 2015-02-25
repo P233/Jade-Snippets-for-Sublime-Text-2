@@ -10,6 +10,12 @@ Strongly recommend to install this repo through Package Control.
 
 ### Conditionnals
 
+if =>  
+```jade
+if condition
+  //- code
+```
+
 if else => 
 ```jade
 if condition
@@ -17,6 +23,22 @@ if condition
 else
   //- code
 ```
+
+each =>  
+```jade
+each value in variable
+  //- code...
+```
+
+case =>  
+```jade
+case condition
+  when condition
+    //- code
+  default
+    //- code
+```
+
 
 ### Attributes
 

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+each ${2:value} in ${1:variable}
+  ${3://- code...}
+]]></content>
+  <tabTrigger>each</tabTrigger>
+  <scope>source.jade</scope>
+  <description>each item in items</description>
+</snippet>
