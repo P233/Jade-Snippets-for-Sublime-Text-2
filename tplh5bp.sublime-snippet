@@ -39,5 +39,5 @@ html(class="no-js")
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>tplh5bp</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 </snippet>

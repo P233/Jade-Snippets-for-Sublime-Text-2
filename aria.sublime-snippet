@@ -3,6 +3,6 @@
 aria-$1="$2"
 ]]></content>
 	<tabTrigger>ari</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>aria-</description>
 </snippet>

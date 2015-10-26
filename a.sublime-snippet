@@ -3,6 +3,6 @@
 a(href="${1:http://}"${2:, target="_blank"}) ${3:link}
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>a()</description>
 </snippet>

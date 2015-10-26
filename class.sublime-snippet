@@ -3,6 +3,6 @@
 class="$1"
 ]]></content>
 	<tabTrigger>cla</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>class=""</description>
 </snippet>

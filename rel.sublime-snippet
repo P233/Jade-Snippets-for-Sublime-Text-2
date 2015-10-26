@@ -3,6 +3,6 @@
 rel="$1"
 ]]></content>
 	<tabTrigger>rel</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>rel=""</description>
 </snippet>

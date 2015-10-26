@@ -3,6 +3,6 @@
 action="$1"
 ]]></content>
 	<tabTrigger>act</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>action=""</description>
 </snippet>

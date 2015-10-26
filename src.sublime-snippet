@@ -3,6 +3,6 @@
 src="$1"
 ]]></content>
 	<tabTrigger>src</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>src=""</description>
 </snippet>

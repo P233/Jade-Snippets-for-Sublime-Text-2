@@ -4,6 +4,6 @@
 	${3:// new line}
 ]]></content>
 	<tabTrigger>ie</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>// if IE</description>
 </snippet>

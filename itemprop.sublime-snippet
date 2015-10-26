@@ -3,6 +3,6 @@
 itemprop="$1" 
 ]]></content>
 	<tabTrigger>itemp</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>itemprop</description>
 </snippet>

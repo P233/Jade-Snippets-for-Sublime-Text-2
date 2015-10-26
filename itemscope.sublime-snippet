@@ -3,6 +3,6 @@
 itemscope 
 ]]></content>
 	<tabTrigger>items</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>itemscope</description>
 </snippet>

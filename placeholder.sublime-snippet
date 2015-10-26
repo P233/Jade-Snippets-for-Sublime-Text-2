@@ -3,6 +3,6 @@
 placeholder="$1"
 ]]></content>
 	<tabTrigger>pla</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>placeholder=""</description>
 </snippet>
