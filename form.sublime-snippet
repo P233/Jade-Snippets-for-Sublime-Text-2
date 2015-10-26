@@ -3,6 +3,6 @@
 form(id="$1", method="$2", action="$3")
 ]]></content>
 	<tabTrigger>form</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>form</description>
 </snippet>

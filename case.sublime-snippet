@@ -7,7 +7,7 @@ case ${1:condition}
     ${4://- code}
 ]]></content>
   <tabTrigger>case</tabTrigger>
-  <scope>source.jade</scope>
+  <scope>text.jade</scope>
   <description>switch case condition</description>
 </snippet>
 

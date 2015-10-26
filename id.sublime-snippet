@@ -3,6 +3,6 @@
 id="$1"
 ]]></content>
 	<tabTrigger>id</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>id=""</description>
 </snippet>

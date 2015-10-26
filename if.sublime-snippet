@@ -4,6 +4,6 @@ if ${1:condition}
   ${2://- code}
 ]]></content>
   <tabTrigger>if</tabTrigger>
-  <scope>source.jade</scope>
+  <scope>text.jade</scope>
   <description>if condition</description>
 </snippet>

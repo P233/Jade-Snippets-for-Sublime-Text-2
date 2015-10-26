@@ -23,6 +23,6 @@ html
 			script(type="text/javascript", src="js/placeholder.js")
 ]]></content>
 	<tabTrigger>tem</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>template</description>
 </snippet>

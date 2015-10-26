@@ -3,6 +3,6 @@
 href="$1"
 ]]></content>
 	<tabTrigger>hre</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>href=""</description>
 </snippet>

@@ -3,6 +3,6 @@
 link(rel="stylesheet", ${1:type="text/css",} href="${2:css/style.css}")
 ]]></content>
 	<tabTrigger>lin</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>link()</description>
 </snippet>

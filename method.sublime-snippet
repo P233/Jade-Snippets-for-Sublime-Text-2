@@ -3,6 +3,6 @@
 method="$1"
 ]]></content>
 	<tabTrigger>met</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>method=""</description>
 </snippet>

@@ -3,6 +3,6 @@
 button(type="${1:submit}"${2:, }) ${3:name}
 ]]></content>
 	<tabTrigger>but</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>button()</description>
 </snippet>

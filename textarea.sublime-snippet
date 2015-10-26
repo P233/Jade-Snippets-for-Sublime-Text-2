@@ -3,6 +3,6 @@
 textarea(${1:, }placeholder="${2:placeholder}")
 ]]></content>
 	<tabTrigger>tex</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>textarea()</description>
 </snippet>

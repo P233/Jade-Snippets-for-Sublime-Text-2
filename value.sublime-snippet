@@ -3,6 +3,6 @@
 value="$1"
 ]]></content>
 	<tabTrigger>val</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>value=""</description>
 </snippet>

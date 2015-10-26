@@ -3,6 +3,6 @@
 input(type="${1:text}",$2 placeholder="${3:placeholder}")
 ]]></content>
 	<tabTrigger>inp</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>input()</description>
 </snippet>

@@ -3,6 +3,6 @@
 type="$1"
 ]]></content>
 	<tabTrigger>typ</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>type=""</description>
 </snippet>

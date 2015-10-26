@@ -3,6 +3,6 @@
 script(type="application/javascript", src="${1:js/script.js}")
 ]]></content>
 	<tabTrigger>scr</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>script()</description>
 </snippet>

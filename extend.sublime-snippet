@@ -3,6 +3,6 @@
 extend ${1:layout};
 ]]></content>
 	<tabTrigger>ext</tabTrigger>
-	<scope>source.jade</scope>
+	<scope>text.jade</scope>
 	<description>extend</description>
 </snippet>
